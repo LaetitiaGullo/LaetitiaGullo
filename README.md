@@ -4,8 +4,9 @@
 
 - 👩 I'm Laetitia Gullo, 29 yo
 - 🏡 I'm from Liège, Belgium
-- 💻 Currently web dev learner at [BeCode](https://becode.org/)
-- 👀 Looking for job or internship opportunities
+- 💻 Web dev learner at [BeCode](https://becode.org/)
+- 🤓 Currently trainee at [Nomics](https://www.linkedin.com/company/nomics/)
+<!-- - 👀 Looking for job opportunities -->
 - 🦋 "*Fearless in the pursuit of what sets my soul on fire.*"
 
 
